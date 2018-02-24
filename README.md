@@ -1,4 +1,4 @@
-# [Vue Light Bootstrap Dashboard](vuejs.creative-tim.com/vue-light-bootstrap-dashboard) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+<!-- # [Vue Light Bootstrap Dashboard](vuejs.creative-tim.com/vue-light-bootstrap-dashboard) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
 > Admin dashboard based on light bootstrap dashboard UI template + vue-router
 
@@ -42,4 +42,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE.md
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg -->
